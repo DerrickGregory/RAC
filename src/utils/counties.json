@@ -1,0 +1,76 @@
+[
+  
+  {
+    "countyCode": 32,
+    "name": "Nakuru",
+    "constituencies": [
+      { "name": "Molo", "wards": ["Mariashoni", "Elburgon", "Turi", "Molo"] },
+      {
+        "name": "Njoro",
+        "wards": ["Maunarok", "Mauche", "Kihingo", "Nessuit", "Lare", "Njoro"]
+      },
+      {
+        "name": "Naivasha",
+        "wards": [
+          "Biashara",
+          "Hells Gate",
+          "Lakeview",
+          "Maai-Mahiu",
+          "Maiella",
+          "Olkaria",
+          "Naivasha East",
+          "Viwandani"
+        ]
+      },
+      {
+        "name": "Gilgil",
+        "wards": [
+          "Gilgil",
+          "Elementaita",
+          "Mbaruk/Eburu",
+          "Malewa West",
+          "Murindati"
+        ]
+      },
+      {
+        "name": "Kuresoi South",
+        "wards": ["Amalo", "Keringet", "Kiptagich", "Tinet"]
+      },
+      {
+        "name": "Kuresoi North",
+        "wards": ["Kiptororo", "Nyota", "Sirikwa", "Kamara"]
+      },
+      { "name": "Subukia", "wards": ["Subukia", "Waseges", "Kabazi"] },
+      {
+        "name": "Rongai",
+        "wards": ["Menengai West", "Soin", "Visoi", "Mosop", "Solai"]
+      },
+      {
+        "name": "Bahati",
+        "wards": ["Dundori", "Kabatini", "Kiamaina", "Lanet/Umoja", "Bahati"]
+      },
+      {
+        "name": "Nakuru Town West",
+        "wards": [
+          "Barut",
+          "London",
+          "Kaptembwo",
+          "Kapkures",
+          "Rhoda",
+          "Shaabab"
+        ]
+      },
+      {
+        "name": "Nakuru Town East",
+        "wards": [
+          "Biashara",
+          "Kivumbini",
+          "Flamingo",
+          "Menengai",
+          "Nakuru East"
+        ]
+      }
+    ]
+  }
+  
+]

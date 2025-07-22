@@ -1,0 +1,107 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* pagination.css */
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.pagination li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.pagination a {
+  color: #333;
+  text-decoration: none;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.pagination a:hover {
+  background-color: #eee;
+}
+
+.pagination .break-me {
+  cursor: default;
+}
+
+.pagination .active a {
+  background-color: #007bff;
+  color: #fff;
+}
+
+
+.tabs-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.tab {
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+  background-color: #f0f0f0;
+  user-select: none;
+}
+
+.tab.active {
+  background-color: #fff;
+}
+
+.tab-content-item {
+  display: none;
+}
+
+.tab-content-item.active {
+  display: block;
+}
+
+.button{
+  border: 2px solid #005E3A;
+  font-family: 'Red Hat Text', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: rgba(0, 94, 58, 1.0);
+  color: #ffffff;
+  fill: #ffffff;
+
+}
+
+.bg{
+  background-image: linear-gradient(rgba(206, 233, 221, 0.4), rgba(206, 233, 221, 0.4)) !important;
+  padding: 60px 20px;
+}
+
+.pt-5{
+  padding-top: 8em;
+}
+
+.button-b{
+  border: 2px solid #005E3A;
+  font-family: 'Red Hat Text', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+background-color: rgba(0,227,148,1.0);
+  color: #000000;
+}
