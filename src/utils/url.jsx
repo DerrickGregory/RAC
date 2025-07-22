@@ -1,6 +1,6 @@
 // production
-//export const url = 'https://dashdelivery.onrender.com'
+export const url = 'https://rac-uxou.onrender.com'
 
 
 // develoment
-export const url = 'http://localhost:5000'
+//export const url = 'http://localhost:5000'
